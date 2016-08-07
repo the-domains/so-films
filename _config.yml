@@ -1,16 +1,16 @@
-typography_spectrum: 0.19870921946130693
+typography_spectrum: 0.18593313707970083
 color:
-  brandStrength: 0.7506443771999329
-  lightness: 0.10953781241551042
-  saturation: 0.9889238358009607
-  rhythmicContrast: 0.2959366349969059
+  brandStrength: 0.33431355259381235
+  lightness: 0.6883054834324867
+  saturation: 0.023008617339655757
+  rhythmicContrast: 0.7891291873529553
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.6925205395091325
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+layout_spectrum: 0.6640030625276268
 name: SO Films
 navigation:
   - name: ABOUT
