@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[SO Films]]></title>
         <description><![CDATA[SO Films]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/so-films/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 08:54:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Aug 2016 09:00:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/so-films/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is Anybody There? (2008)]]></title>
+            <description><![CDATA[<article><h1>Is Anybody There? (2008)</h1><p>Directed by John Crowley. With Michael Caine, Bill Milner, Anne-Marie Duff, Ralph Riach. Set in 1980s seaside England, this is the story of Edward, an unusual ten year old boy growing up in an old people's home run by his parents.</p><img src="http://ia.media-imdb.com/images/M/MV5BNTQxNTA4MDY0M15BMl5BanBnXkFtZTcwMjk2NzE0Mg@@._V1_UY1200_CR99,0,630,1200_AL_.jpg"></article>]]></description>
+            <link>http://www.imdb.com/title/tt1130088/?ref_=fn_al_tt_1</link>
+            <guid isPermaLink="false">51bd7e15-b76b-427b-8758-d0d49a21aa57</guid>
+            <pubDate>Sun, 07 Aug 2016 08:59:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Extremely Loud & Incredibly Close (2011)]]></title>
-            <description><![CDATA[<article><h1>Extremely Loud & Incredibly Close (2011)</h1><p>Directed by Stephen Daldry. With Thomas Horn, Tom Hanks, Sandra Bullock, Max von Sydow. A nine-year-old amateur inventor, Francophile, and pacifist searches New York City for the lock that matches a mysterious key left behind by his father, who died in the World Trade Center on September 11, 2001.</p><img src="http://ia.media-imdb.com/images/M/MV5BMTUxNzYwMTE3NV5BMl5BanBnXkFtZTcwMDY2NzU4Ng@@._V1_UY1200_CR90,0,630,1200_AL_.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Extremely Loud & Incredibly Close (2011)</h1><p>Directed by Stephen Daldry. With Thomas Horn, Tom Hanks, Sandra Bullock, Max von Sydow. A nine-year-old amateur inventor, Francophile, and pacifist searches New York City for the lock that matches a mysterious key left behind by his father, who died in the World Trade Center on September 11, 2001.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a60ec423cea3f38d9f6e88f434c993b8/noop.jpg?input=http%3A%2F%2Fweb.archive.org%2Fweb%2F20160610180214%2Fhttp%3A%2F%2Fia.media-imdb.com%2Fimages%2FM%2FMV5BMTUxNzYwMTE3NV5BMl5BanBnXkFtZTcwMDY2NzU4Ng%40%40._V1_UY1200_CR90%2C0%2C630%2C1200_AL_.jpg"></article>]]></description>
             <link>http://www.imdb.com/title/tt0477302/</link>
             <guid isPermaLink="false">b1d0a51d-1aac-44bf-940c-a78b7c4c3a02</guid>
             <pubDate>Sun, 07 Aug 2016 08:54:09 GMT</pubDate>
