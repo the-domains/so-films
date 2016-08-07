@@ -1,14 +1,14 @@
-layout_spectrum: 0.6925205395091325
-typography_spectrum: 0.19870921946130693
+layout_spectrum: 0.58623824454844
+typography_spectrum: 0.7336894089821726
 color:
-  brandStrength: 0.7506443771999329
-  lightness: 0.10953781241551042
-  saturation: 0.9889238358009607
-  rhythmicContrast: 0.2959366349969059
+  brandStrength: 0.32794334180653095
+  lightness: 0.8840602552518249
+  saturation: 0.4839928704313934
+  rhythmicContrast: 0.3714564577676356
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 name: SO Films
