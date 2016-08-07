@@ -1,4 +1,3 @@
-layout_spectrum: 0.6925205395091325
 typography_spectrum: 0.19870921946130693
 color:
   brandStrength: 0.7506443771999329
@@ -11,5 +10,10 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.6925205395091325
 name: SO Films
+navigation:
+  - name: ABOUT
+    id: 5b74bfa1-d4f7-449c-880d-2af5da89928f
+    type: content
 title: Favourite Films
