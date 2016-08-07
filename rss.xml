@@ -4,8 +4,15 @@
         <description><![CDATA[Test]]></description>
         <link>https://thegrid.ai/so-films/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 09:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 09:45:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/so-films/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Kid with a Bike (2011)]]></title>
+            <description><![CDATA[<article><h1>The Kid with a Bike (2011)</h1><p>Directed by Jean-Pierre Dardenne, Luc Dardenne. With Thomas Doret, Cécile De France, Jérémie Renier, Fabrizio Rongione. Abandoned by his father, a young boy is left in a state-run youth farm. In a random act of kindness, the town hair-dresser agrees to foster him on week-ends.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bbd6459fed3823546000cae508d32107/noop.jpg?input=http%3A%2F%2Fweb.archive.org%2Fweb%2F20160414090124%2Fhttp%3A%2F%2Fia.media-imdb.com%2Fimages%2FM%2FMV5BMTQ3OTE3MzAyMl5BMl5BanBnXkFtZTcwNDU1OTIzNw%40%40._V1_UY1200_CR97%2C0%2C630%2C1200_AL_.jpg"></article>]]></description>
+            <link>http://www.imdb.com/title/tt1827512/?ref_=fn_al_tt_1</link>
+            <guid isPermaLink="false">3730a5e2-0177-4420-a687-9f37f738b470</guid>
+            <pubDate>Sun, 07 Aug 2016 09:45:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stranger Than Fiction (2006)]]></title>
             <description><![CDATA[<article><h1>Stranger Than Fiction (2006)</h1><p>Nominated for 1 Golden Globe. Another 3 wins & 14 nominations. See more awards " Everybody knows that your life is a story. But what if a story was your life? Harold Crick is your average IRS agent: monotonous, boring, and repetitive.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0862598dd051b9638e17c482f7063261/noop.jpg?input=http%3A%2F%2Fweb.archive.org%2Fweb%2F20160412172316%2Fhttp%3A%2F%2Fia.media-imdb.com%2Fimages%2FM%2FMV5BMTY5MjA3MTY2Ml5BMl5BanBnXkFtZTcwNTMzNzYzMw%40%40._V1_UY1200_CR88%2C0%2C630%2C1200_AL_.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.imdb.com/title/tt0477302/</link>
             <guid isPermaLink="false">b1d0a51d-1aac-44bf-940c-a78b7c4c3a02</guid>
             <pubDate>Sun, 07 Aug 2016 09:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Submarino (2010)]]></title>
-            <description><![CDATA[<article><h1>Submarino (2010)</h1><p>8 wins & 19 nominations. See more awards " As children, Nick and his little brother take care of their baby brother while their mother drinks herself senseless. But the baby dies, and both brothers blame themselves. Many years later, Nick is out of prison after serving time for an assault.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/697ae629e0a70ca5fde892c3e8967dde/noop.jpg?input=http%3A%2F%2Fia.media-imdb.com%2Fimages%2FM%2FMV5BMjM2MDcyNjc4OF5BMl5BanBnXkFtZTgwMTc5MjA2MDE%40._V1_UY1200_CR135%2C0%2C630%2C1200_AL_.jpg"></article>]]></description>
-            <link>http://www.imdb.com/title/tt1322385/?ref_=fn_al_tt_2</link>
-            <guid isPermaLink="false">c6e0bf7f-58f1-43bf-968a-c2c75caf7f66</guid>
-            <pubDate>Sun, 07 Aug 2016 09:03:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
