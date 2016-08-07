@@ -16,4 +16,7 @@ navigation:
   - name: ABOUT
     id: 5b74bfa1-d4f7-449c-880d-2af5da89928f
     type: content
+  - name: CONTACT
+    id: 06c25f4b-a4c9-429f-ae41-7b6a877b9ba5
+    type: content
 title: Test
